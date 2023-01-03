@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "vt0+oh7b/uz2PWANgfgN/JOQl/Erc5B47tzKKGMkpvg=",
+  "Source": "Clean.UI",
+  "BasePath": "_content/Clean.UI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Clean.UI\\wwwroot",
+      "Source": "Clean.UI",
+      "ContentRoot": "C:\\ASP\\MVC\\Clean\\Clean.UI\\wwwroot\\",
+      "BasePath": "_content/Clean.UI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\ASP\\MVC\\Clean\\Clean.UI\\wwwroot\\StyleSheet.css",
+      "SourceId": "Clean.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ASP\\MVC\\Clean\\Clean.UI\\wwwroot\\",
+      "BasePath": "_content/Clean.UI",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+﻿@using Clean.Core.Domain.Entities;
+@using Clean.Core.DTO.CountryDTO;
+@using Clean.Core.DTO.PersonDTO;
+@using Clean.Core.DTO.IdentityDTO;
+@using Clean.Core.Domain.IdentityEntities
+@using Clean.Core.Enums;
+@using Clean.Core.ServiceContracts;
+@using Clean.Core.Services;
+@using Microsoft.AspNetCore.Identity
+
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@inject SignInManager<ApplicationUser> signInManager

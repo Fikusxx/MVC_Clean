@@ -1,0 +1,12 @@
+C:\ASP\MVC\Clean\Clean.Core\bin\Debug\net6.0\Clean.Core.deps.json
+C:\ASP\MVC\Clean\Clean.Core\bin\Debug\net6.0\Clean.Core.dll
+C:\ASP\MVC\Clean\Clean.Core\bin\Debug\net6.0\Clean.Core.pdb
+C:\ASP\MVC\Clean\Clean.Core\obj\Debug\net6.0\Clean.Core.csproj.AssemblyReference.cache
+C:\ASP\MVC\Clean\Clean.Core\obj\Debug\net6.0\Clean.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP\MVC\Clean\Clean.Core\obj\Debug\net6.0\Clean.Core.AssemblyInfoInputs.cache
+C:\ASP\MVC\Clean\Clean.Core\obj\Debug\net6.0\Clean.Core.AssemblyInfo.cs
+C:\ASP\MVC\Clean\Clean.Core\obj\Debug\net6.0\Clean.Core.csproj.CoreCompileInputs.cache
+C:\ASP\MVC\Clean\Clean.Core\obj\Debug\net6.0\Clean.Core.dll
+C:\ASP\MVC\Clean\Clean.Core\obj\Debug\net6.0\refint\Clean.Core.dll
+C:\ASP\MVC\Clean\Clean.Core\obj\Debug\net6.0\Clean.Core.pdb
+C:\ASP\MVC\Clean\Clean.Core\obj\Debug\net6.0\ref\Clean.Core.dll
